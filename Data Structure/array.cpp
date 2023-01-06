@@ -2,6 +2,7 @@
 using namespace std;
 // from here the main code start
 // /askdfjksah
+// A quick bronw fox jumps over the lazy dog.
 int main()
 {
     int n;

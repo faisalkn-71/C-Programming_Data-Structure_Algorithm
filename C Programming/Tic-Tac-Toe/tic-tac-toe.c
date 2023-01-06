@@ -78,5 +78,6 @@ int main()
         }
     }
     // code finish
+    // A quick brown fox jumps over the lazy dog.
     return 0;
 }
